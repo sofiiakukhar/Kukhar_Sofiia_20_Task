@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\User\\Desktop\\Prectice-2026\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{940DB088-3935-444E-BE40-C9E45186628F}|Task_2\\Task_2.vcxproj|D:\\User\\Desktop\\Prectice-2026\\Task_2\\Task_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{940DB088-3935-444E-BE40-C9E45186628F}|Task_2\\Task_2.vcxproj|solutionrelative:Task_2\\Task_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0486FDF-50BA-4C2A-80F6-8DA3A9511107}|Task_1\\Task_1.vcxproj|D:\\User\\Desktop\\Prectice-2026\\Task_1\\Task_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A0486FDF-50BA-4C2A-80F6-8DA3A9511107}|Task_1\\Task_1.vcxproj|solutionrelative:Task_1\\Task_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Task_2.cpp",
+              "DocumentMoniker": "D:\\User\\Desktop\\Prectice-2026\\Task_2\\Task_2.cpp",
+              "RelativeDocumentMoniker": "Task_2\\Task_2.cpp",
+              "ToolTip": "D:\\User\\Desktop\\Prectice-2026\\Task_2\\Task_2.cpp",
+              "RelativeToolTip": "Task_2\\Task_2.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-02T14:39:20.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Task_1.cpp",
               "DocumentMoniker": "D:\\User\\Desktop\\Prectice-2026\\Task_1\\Task_1.cpp",
               "RelativeDocumentMoniker": "Task_1\\Task_1.cpp",
